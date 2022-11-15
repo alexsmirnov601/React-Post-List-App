@@ -10,6 +10,6 @@ Available functionality:
 - imitation of log in form (you can skip it)
 - you can create and delete your posts (other posts are loaded from the server by default)
 - dynamic pagination (Infinite scrolling feed)
-- The transition between pages is carried out using react router
+- the transition between pages using react router
 
 
